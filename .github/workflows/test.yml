@@ -32,4 +32,4 @@ jobs:
         run : pip install -r python-tests/requirements.txt
 
       - name : run tests
-        run : pytest python-tests/-v
+        run : pytest python-tests/ -v
