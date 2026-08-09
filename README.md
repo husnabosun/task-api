@@ -46,8 +46,6 @@ source venv/bin/activate
 # Windows (PowerShell):
 venv\Scripts\Activate.ps1
 ```
-ripts\Activate.ps1
-```
 
 Install the required Python packages, listed in `requirements.txt`:
 
